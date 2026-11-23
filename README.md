@@ -1,48 +1,54 @@
 # Whoish
 
-**Domain & Network Analysis for macOS**
+**Domain & Network Analysis for Mac and iPad**
 
-Whoish is a modern, privacy-first tool built for web professionals who need quick, human-friendly insights about domains, IP addresses, and network infrastructure.
+Whoish is a domain and network analysis tool for web professionals. Enter a domain, IP address, or URL and get clear answers in seconds.
 
----
+[Download on the App Store](https://apps.apple.com/app/id6759921568)
 
 ## What It Does
 
-Enter any domain, IP address, or URL and get instant results — all lookups run in parallel with results streaming as they complete.
+DNS, WHOIS, SSL, HTTP headers, hosting, and email security run in parallel, and results appear as each check finishes.
 
-- **DNS Records** — A, AAAA, MX, TXT, NS, CNAME, SOA, CAA via DNS-over-HTTPS
-- **WHOIS Lookup** — Registration details, expiration dates, and registrar info
-- **SSL/TLS Inspection** — Certificate chain, issuer, validity, and days remaining
-- **HTTP Security Headers** — Security scoring from A+ to F with detailed breakdown
-- **Email Security** — SPF, DKIM, and DMARC analysis with overall grade
-- **IP Analysis** — IPv4/IPv6 with PTR lookup and RDAP ownership data
-- **DNS Propagation** — Compare records across multiple resolvers
-- **Hosting Detection** — Provider, CDN, CMS, and email provider identification
+* **DNS records** — A, AAAA, MX, TXT, NS, CNAME, SOA, CAA, DS, and SRV over DNS-over-HTTPS
+* **WHOIS and RDAP** — registrar, registration details, and expiry date
+* **SSL/TLS** — certificate chain, issuer, validity, and name mismatch warnings
+* **HTTP security headers** — graded from A+ to F
+* **Email security** — SPF, DKIM, and DMARC with an overall grade
+* **IP lookups** — RDAP ownership, plus private and reserved address detection
+* **Hosting detection** — hosting provider, CDN, CMS, and email provider
+* **Domain Health Score** — a grade from 0 to 100, with the factors behind it
+* **Subdomain discovery** — from Certificate Transparency logs (Pro)
 
-## Built for Professionals
+## Monitor Your Favorites
 
-- Menu bar quick search — look up domains without opening the full app
-- Search history with favorites
-- Copy summary reports to clipboard
-- Configurable DNS resolver, timeout, and SSL verification settings
-- Content scale options for your preferred workflow
-- Fully localized in English and Swedish
+Turn on monitoring for a favorite and Whoish checks it at the interval you choose. You get a notification when its addresses, name servers, mail servers, or expiry date change. Address rotation inside large CDNs such as Cloudflare and Fastly is ignored, so you only hear about real changes.
+
+Checks run while Whoish is running on your Mac, or while it is on screen on your iPad.
+
+## Built for Daily Work
+
+* Menu bar quick search on Mac
+* Search history with saved snapshots
+* Lookup diff — see what changed since an earlier lookup (Pro)
+* PDF reports to save or share (Pro)
+* Shortcuts and Siri
+* Choice of DNS resolver, timeout, redirects, and SSL verification
+* Compact, Default, or Large content size
 
 ## Privacy First
 
-All lookups are performed locally from your Mac. No analytics, no tracking, no ads. Data is only sent to public DNS resolvers and the target domain's servers. The app is fully sandboxed.
+Lookups run from your device. No account, no analytics, no tracking, no ads. Queries go only to the DNS resolver you choose, public registration and certificate services, and the servers of the domain you look up.
 
-- [Privacy Policy](privacy)
-- [Terms of Use](terms)
+* [Privacy Policy](privacy)
+* [Terms of Use](terms)
 
 ## Free & Pro
 
-Whoish is free to use with 10 lookups per day — all features included, no trial, no ads. Upgrade to Pro for unlimited lookups.
+Whoish is free with 10 lookups a day and one monitored favorite. Whoish Pro adds unlimited lookups, unlimited monitored favorites, subdomain discovery, PDF reports, and lookup diff.
 
-<!-- Available on the Mac App Store — link coming soon. -->
-
----
+Pro is a yearly subscription, or a one-time lifetime unlock. One purchase covers Mac and iPad with the same Apple ID.
 
 ## Support
 
-Having trouble or have a question? Reach out at **tony@mailish.se**
+Questions or problems? Email tony@mailish.se
