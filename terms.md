@@ -1,54 +1,78 @@
 # Terms of Use for Whoish
 
-*Last updated: September 17, 2026*
+*Last updated: November 22, 2026*
 
-## Acceptance of Terms
+## Agreement
 
-By downloading, installing, or using Whoish (“the App”) on macOS or iPadOS, you agree to these Terms of Use. If you do not agree, do not use the App.
+By downloading or using Whoish ("the App") on macOS or iPadOS, you agree to these Terms of Use. If you do not agree, do not use the App.
 
-## Description of Service
+These terms add to Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (EULA), which also applies to the App. If the two conflict, Apple's EULA applies.
 
-Whoish is a domain and network analysis tool providing DNS inspection, WHOIS lookups, SSL/TLS certificate analysis, HTTP header security scoring, email security verification (SPF/DKIM/DMARC), Certificate Transparency subdomain discovery, favorites monitoring, and report export. 
+## What the App Does
 
-All lookups and checks are performed from your device using publicly available internet protocols and services.
+Whoish analyzes domains, IP addresses, and URLs. It reads DNS records, WHOIS and RDAP registration data, SSL/TLS certificates, HTTP security headers, and email security records (SPF, DKIM, DMARC). It can find subdomains through Certificate Transparency logs, monitor favorites for changes, and export reports.
 
-## Use Restrictions
+All lookups run from your device against public internet services.
+
+## Acceptable Use
 
 You agree not to:
-* Use the App to harass, abuse, attack, or disrupt any network, domain, or server
-* Perform lookups in violation of any applicable local, national, or international law
-* Attempt to reverse-engineer, decompile, or disassemble the App
-* Use the App for abusive automated bulk scanning, distributed denial of service, or scraping
 
-## Accuracy of Information
+* Use the App to harass, attack, or disrupt any network, domain, or server
+* Use the App in breach of any law that applies to you
+* Use the App for abusive automated bulk scanning or scraping
+* Reverse-engineer, decompile, or disassemble the App, except where the law allows it
 
-Lookup results are provided “as is” and “as available” from public data sources (including DNS resolvers, WHOIS registries, RDAP registries, Certificate Transparency logs, and target domain web servers). 
+## Accuracy of Results
 
-Whoish does not guarantee the accuracy, completeness, or timeliness of any information displayed. Results may be affected by DNS propagation, network timeouts, registry privacy redactions (e.g. GDPR), or server availability.
+Results come "as is" from public sources, including DNS resolvers, WHOIS and RDAP registries, Certificate Transparency logs, and the web servers of the domain you look up. Whoish does not guarantee that they are accurate, complete, or current. DNS propagation, timeouts, registry privacy redaction (for example under GDPR), and server availability can all affect what you see.
 
-## In-App Purchases & Subscriptions
+Monitoring checks run only while the App is running on a Mac, or on screen on an iPad. Whoish does not guarantee that every change is detected or that every notification is delivered. Do not rely on the App as your only warning for critical changes, such as an expiring domain.
 
-The App offers a free tier (10 lookups per day and 1 monitored favorite) and a Pro upgrade (available as an annual subscription or a one-time lifetime purchase). 
+## Free Use and Whoish Pro
 
-Pro unlocks:
-* Unlimited daily domain lookups
-* Certificate Transparency subdomain discovery
-* Professional PDF report generation and sharing
-* Unlimited favorites monitoring with change alerts
+The App is free to use with **10 lookups per day** and **one monitored favorite**.
 
-All transactions and subscriptions are processed by Apple through the App Store and are subject to Apple’s terms, billing cycles, and refund policies.
+**Whoish Pro** adds:
+
+* Unlimited lookups
+* Unlimited monitored favorites
+* Subdomain discovery
+* PDF report export
+* Lookup diff, to see what changed since an earlier lookup
+
+Pro is available in two forms. The price for each is shown in the App before you pay.
+
+* **Whoish Pro Annual**, a subscription that lasts one year and renews automatically.
+* **Whoish Pro Lifetime**, a single payment that does not renew.
+
+## Subscription Terms
+
+* Payment is charged to your Apple ID account when you confirm the purchase.
+* The annual subscription renews automatically each year unless you cancel it at least 24 hours before the current period ends.
+* Your account is charged for the renewal within 24 hours before the current period ends.
+* You can manage or cancel the subscription in your App Store account settings. Cancelling stops the next renewal. Pro stays active until the end of the period you have paid for.
+* If you delete the App, your subscription does not stop. Cancel it in your account settings.
+
+Purchases are tied to your Apple ID and work on both Mac and iPad. Use Restore Purchases in the App to bring Pro to a new device.
+
+All payments and refunds are handled by Apple under Apple's terms. To request a refund, go to [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ## Intellectual Property
 
-Whoish and its original code, design, features, and branding are owned by Tony Svensson and are protected by copyright law.
+Whoish, including its code, design, and branding, belongs to Tony Svensson and is protected by copyright.
 
-## Disclaimer of Warranties
+## No Warranty
 
-The App is provided “as is” without warranties of any kind, either express or implied. We do not warrant that the App will be uninterrupted, error-free, or free of harmful components.
+The App is provided "as is", without warranties of any kind, express or implied. Whoish does not promise that the App will be uninterrupted or error-free.
 
 ## Limitation of Liability
 
-To the maximum extent permitted by law, Tony Svensson shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App.
+To the extent the law allows, Tony Svensson is not liable for any indirect, incidental, special, or consequential damages from your use of the App. Nothing in these terms limits rights you have under consumer protection law where you live.
+
+## Changes to These Terms
+
+If these terms change, the new version will be posted on this page with a new date.
 
 ## Governing Law
 
@@ -56,4 +80,4 @@ These terms are governed by the laws of Sweden.
 
 ## Contact
 
-If you have questions about these terms, contact: tony@mailish.se
+Questions about these terms: tony@mailish.se
