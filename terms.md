@@ -1,6 +1,6 @@
 # Terms of Use for Whoish
 
-*Last updated: November 22, 2026*
+*Last updated: November 26, 2026*
 
 ## Agreement
 
@@ -41,10 +41,11 @@ The App is free to use with **10 lookups per day** and **one monitored favorite*
 * PDF report export
 * Lookup diff, to see what changed since an earlier lookup
 
-Pro is available in two forms. The price for each is shown in the App before you pay.
+Pro for a new purchase is **Whoish Pro Annual**, a subscription that lasts one year and renews automatically. The price is shown in the App before you pay.
 
-* **Whoish Pro Annual**, a subscription that lasts one year and renews automatically.
-* **Whoish Pro Lifetime**, a single payment that does not renew.
+A **Whoish Pro Lifetime** purchase made earlier stays unlocked on the Apple ID that bought it. Lifetime is no longer for sale. It is access to Pro in the app, not a promise that Whoish will be updated or sold indefinitely.
+
+Whoish may stop selling Pro. An annual subscription then stays active until the end of the period already paid for and does not renew after that.
 
 ## Subscription Terms
 
