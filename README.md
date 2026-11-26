@@ -47,7 +47,7 @@ Lookups run from your device. No account, no analytics, no tracking, no ads. Que
 
 Whoish is free with 10 lookups a day and one monitored favorite. Whoish Pro adds unlimited lookups, unlimited monitored favorites, subdomain discovery, PDF reports, and lookup diff.
 
-Pro is a yearly subscription, or a one-time lifetime unlock. One purchase covers Mac and iPad with the same Apple ID.
+Pro is a yearly subscription. One purchase covers Mac and iPad with the same Apple ID.
 
 ## Support
 
